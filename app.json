@@ -1,11 +1,10 @@
 {
 	"name": "BigBoyRobot",
 	"username": "bigboyrobot",
-	"token": "YOUR TELEGRAM TOKEN",
+	"token": "185782120:AAFbSv24Ae4eZ6zEF-ToA4wPyXIQfMHrR4o",
 	"webhook": "https://c7d097ec.ngrok.io/",
 	"port": 8080,
 	"plugins": {
-		"voz": true,
 		"weather": true,
 		"news": true,
 		"translate": true
