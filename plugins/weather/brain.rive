@@ -1,0 +1,6 @@
+! array cmodo   =  what's|what is|how's|how is
+! array cclima  =  the weather
+! array clocal  =  in|here in
+
++ [tell me] [@cmodo] @cclima [@clocal] *
+- /weather "<star1>"

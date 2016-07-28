@@ -1,0 +1,28 @@
+{
+  "name": "Actionbot",
+  "version": "0.0.1",
+  "description": "Bot da Ação.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "ffmpeg-node": "0.0.2",
+    "hyperquest": "^1.3.0",
+    "moment-timezone": "^0.5.1",
+    "node-telegram-bot-api": "^0.20.1",
+    "request": "^2.69.0",
+    "rivescript": "^1.6.0",
+    "yandex-translate": "^2.1.0"
+  },
+  "engines": {
+    "node": "5.8.0"
+  },
+  "jshintConfig": {
+    "esnext": true
+  },
+  "license": "MIT"
+}
